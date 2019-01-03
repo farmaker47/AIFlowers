@@ -8,15 +8,15 @@ AI Flowers is a demo app that was created for Udacity Project Showcase as part f
 
 ### Build
 
+unzip libs.zip in the root directory to get the static libraries
+create a folder named armeabi-v7a in app/src/main/jni
+copy the static libraries to app/src/main/jni/armeabi-v7a
+open project with android studio
+
+
 Click the green play button in Android Studio and follow instructions if some classes are missing
 
-WARNING= Take in mind that this build is at the moment available only for NDK 17c version. So download this version to run it
-https://developer.android.com/ndk/downloads/older_releases
-and then inside AS go to File -> Project Structure -> SDK Location -> NDK Path (Put extracted path here)
 
-Because of this, demonstration APP uses protobufs inside assets folder that come from original AIDemo application
-where classification is from Imagenet with 1.000 different classes of images.
-Tweeks have been made to correspond to how this app will look like when Demo app will work with newer NDK 18 where you can work with your own protobufs.
 
 Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet
 to identify 102 flower species. You can download the colab notebook to see a working example of how protobufs are created from link
