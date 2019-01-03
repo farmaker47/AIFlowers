@@ -8,9 +8,13 @@ AI Flowers is a demo app that was created for Udacity Project Showcase as part f
 
 ### Build
 Download libs.zip from url https://drive.google.com/open?id=1-eHu1psGyj4YD0Uz6DGY7IiJfbE5sRWa
+
 Unzip libs.zip to get the static libraries
+
 Create a folder named jni in app/src/main
+
 Create a folder named armeabi-v7a in app/src/main/jni
+
 Copy the static libraries to app/src/main/jni/armeabi-v7a
 
 Click the green play button in Android Studio and follow instructions if some classes are missing
