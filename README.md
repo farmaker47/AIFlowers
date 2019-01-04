@@ -14,6 +14,9 @@ https://github.com/t-vi/AICamera
 1.First you have to set some paths to Linux as shown at the picture
 ![ubu3](https://user-images.githubusercontent.com/26084498/50677461-ab370700-1002-11e9-9d2e-04672e143e05.png)
 
+2.Then run ./build_android.sh script
+![ubu2](https://user-images.githubusercontent.com/26084498/50677631-90b15d80-1003-11e9-9aa0-e315124110d6.png)
+
 
 
 
