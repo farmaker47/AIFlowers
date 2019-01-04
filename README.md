@@ -47,6 +47,7 @@ Soumith Chintala, Thomas V, Ioannis Anifantakis
 
 ## Special links for more info
 https://github.com/t-vi/AICamera
+
 https://github.com/wangnamu/AICamera_new
 
 ### Tests
