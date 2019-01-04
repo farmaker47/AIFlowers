@@ -7,6 +7,14 @@ AI Flowers is a demo app that was created for Udacity Project Showcase as part f
     git clone https://github.com/farmaker47/AIFlowers
 
 ### Build
+
+##To build the necessary libraries for the project follow super instructions by Sumith and Thomas from this repository
+https://github.com/t-vi/AICamera
+1.First you have to set some paths to Linux as shown at the picture
+
+
+
+
 Download libs.zip from url https://drive.google.com/open?id=1-eHu1psGyj4YD0Uz6DGY7IiJfbE5sRWa
 
 Unzip libs.zip to get the static libraries
