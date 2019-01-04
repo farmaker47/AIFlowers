@@ -20,8 +20,11 @@ https://github.com/t-vi/AICamera
 3.Wait until libraries are generated
 ![ubu1](https://user-images.githubusercontent.com/26084498/50677686-da9a4380-1003-11e9-9e74-86831a66eace.png)
 
+4.When everything is ready find the libraries inside path pytorch/pytorch/build_android/lib:
+![ubu5](https://user-images.githubusercontent.com/26084498/50677722-20efa280-1004-11e9-882c-a291c982ac56.png)
 
 
+## If you cannot build or you dont have a clue about linux use below instructions:
 
 Download libs.zip from url https://drive.google.com/open?id=1-eHu1psGyj4YD0Uz6DGY7IiJfbE5sRWa
 
@@ -36,9 +39,15 @@ Copy the static libraries to app/src/main/jni/armeabi-v7a
 Click the green play button in Android Studio and follow instructions if some classes are missing
 
 
-
+## Info
 Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 102 flower species. You can download the colab notebook to see a working example of how protobufs are created from link https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF
 
+## Credits
+Soumith Chintala, Thomas V, Ioannis Anifantakis
+
+## Special links for more info
+https://github.com/t-vi/AICamera
+https://github.com/wangnamu/AICamera_new
 
 ### Tests
 
