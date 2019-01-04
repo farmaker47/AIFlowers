@@ -48,6 +48,9 @@ Click the green play button in Android Studio and follow instructions if some cl
 ## Info
 Inside Assets folder there are already 2 protobufs soloupis_init_net AND soloupis_predict_net where these have been created after training a SqueezeNet to identify 102 flower species. You can download the colab notebook to see a working example of how protobufs are created from link https://drive.google.com/open?id=1uVTRHIJTo8ziMoC-ClpmTAiqtVdpLgEF
 
+## Small video 
+https://www.youtube.com/watch?v=LOeFcHR9d9s&feature=youtu.be
+
 ## Credits
 Soumith Chintala, Thomas V, Ioannis Anifantakis
 
