@@ -1,6 +1,6 @@
 ## AI Flowers
 
-AI Flowers is a demo app that was created for Udacity Project Showcase as part for the Facebook Pytorch scholarship.
+AI Flowers is a demo app that was created for Udacity Project Showcase as part for the Facebook Pytorch scholarship. You can use the camera of your app to classify flowers and see their names.
 
 ### Download
 
