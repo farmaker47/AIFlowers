@@ -17,6 +17,9 @@ https://github.com/t-vi/AICamera
 2.Then run ./build_android.sh script
 ![ubu2](https://user-images.githubusercontent.com/26084498/50677631-90b15d80-1003-11e9-9aa0-e315124110d6.png)
 
+3.Wait until libraries are generated
+![ubu1](https://user-images.githubusercontent.com/26084498/50677686-da9a4380-1003-11e9-9e74-86831a66eace.png)
+
 
 
 
