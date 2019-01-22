@@ -62,7 +62,7 @@ https://github.com/wangnamu/AICamera_new
 
 ### Tests
 
-At phones with min SDG version 22 aka Marshmallow because Camera2 api is used..
+At phones with min SDG version 23 aka Marshmallow because Camera2 api is used..
 
 ### License
 
